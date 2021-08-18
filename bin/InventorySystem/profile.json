@@ -1,0 +1,19 @@
+{
+
+	"test":{"Name": "Test123",
+			"ID":1234123412,
+			"Email":"test@gmail.com",
+			"Address": "Nowhere",
+			"Username": "test",
+			"Password":"test",
+			"AccessLevel":1
+			},
+	"hihi":{"Name": "blahblah",
+			"ID": 342142124,
+			"Password": "haha",
+			"Email":"hihi@gmail.com",
+			"Username": "hihi",
+			"Address": "Nowhere",
+			"AccessLevel":0}
+
+}
